@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b866161d34abe1b4296d13ac0a9cfa7a, type: 3}
+  m_Name: Bridge
+  m_EditorClassIdentifier: 
+  HorizontalFloor:
+  - {fileID: 11400000, guid: fe53cd53b5495c74a93b375d30b3e05a, type: 2}
+  HorizontalRail:
+  - {fileID: 11400000, guid: 5c72eb56d8772ea419ef9b758ad00012, type: 2}
+  ConnectorFloorL:
+  - {fileID: 11400000, guid: e94abce40804cee429dff7bd24994d6c, type: 2}
+  ConnectorFloorR:
+  - {fileID: 11400000, guid: 80316a0702fd3a741a9bec036ae2bfc9, type: 2}
+  ConnectorRailL:
+  - {fileID: 11400000, guid: 8a39717d64e70ef4ea7adca250d1df42, type: 2}
+  ConnectorRailR:
+  - {fileID: 11400000, guid: 33ac5817eeed12b4f93f38caafca992b, type: 2}
+  DiagonalFloor:
+  - {fileID: 11400000, guid: 8c3662f0727280e4b81b9073da4bd099, type: 2}
+  DiagonalRail:
+  - {fileID: 11400000, guid: f44306c8750e67a488add1b8eb0fea9e, type: 2}

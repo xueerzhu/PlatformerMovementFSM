@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - talisman
+  - slash
+  - shuriken
+  - PlayerOne
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player1
+  - Player2
+  - Talisman
+  - Terrain Front 1
+  - Terrain Front 2
+  - Terrain Background 1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain 3
+    uniqueID: 1351133883
+    locked: 0
+  - name: Terrain 2
+    uniqueID: 3820162831
+    locked: 0
+  - name: Player L2
+    uniqueID: 343746229
+    locked: 0
+  - name: Banner 2
+    uniqueID: 1125041321
+    locked: 0
+  - name: Terrain 1
+    uniqueID: 4121606089
+    locked: 0
+  - name: Player L1
+    uniqueID: 2299800365
+    locked: 0
+  - name: Projectile
+    uniqueID: 3620982579
+    locked: 0
+  - name: Banner 1
+    uniqueID: 5118691
+    locked: 0
+  - name: Pellet
+    uniqueID: 2732204325
+    locked: 0

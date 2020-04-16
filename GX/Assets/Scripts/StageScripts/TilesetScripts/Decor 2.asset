@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae815c5853aa97847a6e694b02be25c0, type: 3}
+  m_Name: Decor 2
+  m_EditorClassIdentifier: 
+  roomType: Decor_2
+  width: 3
+  height: 5
+  tiles:
+  - {fileID: 11400000, guid: 8d4fa3d3af8fcd54f95329d2295623fa, type: 2}
+  - {fileID: 11400000, guid: 41e291fd1b16fdf4185b26748edffbb2, type: 2}
+  - {fileID: 11400000, guid: e9bac494e372cea42980d4f0115aa5a7, type: 2}
+  - {fileID: 11400000, guid: 66db9b9187d09bf46a7caacd86becfcd, type: 2}
+  - {fileID: 11400000, guid: 9cf71bcbe19683f40bbf87831da4247d, type: 2}
+  - {fileID: 11400000, guid: a1fe047480d210742b08333856831f38, type: 2}
+  - {fileID: 11400000, guid: 4280a384692189b478ab7ccb8a935a83, type: 2}
+  - {fileID: 11400000, guid: 0c839162db8d6ad4db2aaa05276f465b, type: 2}
+  - {fileID: 11400000, guid: 4c2548db56cb4d8439580b61f286a493, type: 2}
+  - {fileID: 11400000, guid: 7cae192a47c1911498374644d0f183fb, type: 2}
+  - {fileID: 11400000, guid: b5109637498036448a782eba5bc1e204, type: 2}
+  - {fileID: 11400000, guid: 2cb961210f0407f41b93708bbf833ee1, type: 2}
+  - {fileID: 11400000, guid: 0387b1827804d6541b301b980062914c, type: 2}
+  - {fileID: 11400000, guid: db158790022e75549a20c229d1dd1669, type: 2}
+  - {fileID: 11400000, guid: 8ac130c1088cd2045b836e9679d57323, type: 2}
